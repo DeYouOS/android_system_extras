@@ -14,7 +14,7 @@ license {
 }
 
 cc_binary {
-    name: "su",
+    name: "su2",
 
     cflags: [
         "-Wall",
